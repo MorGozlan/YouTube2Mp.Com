@@ -1,6 +1,3 @@
-# youtube-to-mp3-converter-php-script
-
-Support: api@youtube6download.top
 
 <h3>How to install this script?</h3>
 First, Download it from here.
